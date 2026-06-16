@@ -128,7 +128,7 @@ Estudiante de Ingeniería en Software.
 
 
 
-!\[Interfaz principal](screenshots/Interfaz.png)
+!\[Interfaz principal](Images/Interfaz.png)
 
 
 
@@ -136,5 +136,5 @@ Estudiante de Ingeniería en Software.
 
 
 
-!\[Tabla de alumnos](screenshots/Tabla.png)
+!\[Tabla de alumnos](Images/Tabla.png)
 
