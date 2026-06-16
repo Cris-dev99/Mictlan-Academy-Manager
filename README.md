@@ -120,3 +120,21 @@ Estudiante de Ingeniería en Software.
 
 
 
+&#x20; **Capturas de pantalla**
+
+
+
+&#x20;Interfaz principal
+
+
+
+!\[Interfaz principal](screenshots/Interfaz.png)
+
+
+
+&#x20;Tabla de alumnos
+
+
+
+!\[Tabla de alumnos](screenshots/Tabla.png)
+

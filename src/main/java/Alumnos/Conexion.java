@@ -26,7 +26,7 @@ public class Conexion {
                     ""
             );
 
-            System.out.println("Conexion exitosa");
+            System.out.println("Conexión a la base de datos establecida correctamente.");
 
         } catch (SQLException e) {
 
