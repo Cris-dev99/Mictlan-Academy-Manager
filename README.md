@@ -119,16 +119,15 @@ Cristian Domínguez
 Estudiante de Ingeniería en Software.
 
 
+## Capturas de pantalla
 
-&#x20; **Capturas de pantalla**
+### Interfaz principal
 
+![Interfaz principal](./Images/Interfaz.png)
 
+### Tabla de alumnos
 
-&#x20;Interfaz principal
-
-
-
-!\[Interfaz principal](Images/Interfaz.png)
+![Tabla de alumnos](./Images/Tabla.png)
 
 
 
