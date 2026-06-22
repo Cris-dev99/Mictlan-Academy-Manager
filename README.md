@@ -37,7 +37,7 @@ This project was engineered to practically apply and master the following core s
 * **CRUD Operations** implementation.
 * Data persistence and manipulation via **MySQL**.
 
-## 🔮 Future Roadmap (Upcoming Enhancements)
+## Future Roadmap (Upcoming Enhancements)
 * [ ] Advanced student search and filtering options.
 * [ ] Course and class schedule management.
 * [ ] Daily attendance tracking control.
